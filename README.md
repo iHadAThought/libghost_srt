@@ -21,6 +21,11 @@ ASan soak+reconnect on AIDA H.264 1080p30: **PASS** (Mac lab). Valgrind not avai
 
 Encode matrix: see `docs/srt-rtmp-rtsp-encode-compatibility.md`.
 
+## License
+
+Released under the [MIT License](LICENSE) — free to use, modify, and redistribute.
+Copyright © 2026 Brendan Mahoney / iHadAThought.
+
 ## Related
 
 - GhostVidStream: https://github.com/iHadAThought/GhostVidStream
